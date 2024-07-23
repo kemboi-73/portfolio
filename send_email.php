@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mailbox = new Mailbox(
             '{imap.gmail.com:993/imap/ssl}INBOX', // IMAP server and mailbox folder
             'kemboimichael52@gmail.com',               // Username for the before configured mailbox
-            'yflv yidy rzqi dzxd',                // Password for the before configured username
+            'kvna vmej tfpd bohu',                // Password for the before configured username
             __DIR__                               // Directory where attachments will be saved (optional)
         );
 
